@@ -1,3 +1,3 @@
 # MBSGD
 
-Mini-batch Stochastic gradien descent
+Mini-batch Stochastic gradien descent with Hinge loss
